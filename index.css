@@ -17,7 +17,7 @@ body{
     border-radius: 15px;
     border:5px #D1D5DB solid;
     padding: 100px 100px;
-    max-width: 450px;
+    max-width: 280px;
     display: flex;
     flex-direction: column;
     margin: 0 auto;
@@ -62,7 +62,7 @@ p{
 
 .textbox{
     display: flex;
-    justify-content: center;
+    justify-content: start;
     gap: 15px;
 }
 
