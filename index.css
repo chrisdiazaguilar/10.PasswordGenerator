@@ -36,7 +36,7 @@ body{
 }
 
 .lowerHeader{
-    color:D5D4D8;
+    color:#D5D4D8;
     margin-top: 2px;
     font-size: 15px;
     font-weight: 400;
@@ -54,7 +54,7 @@ button{
 }
 
 p{
-    color:2F3E53;
+    color: #2F3E53;
     max-width: 80%;
     margin-top: 15px;
     margin-bottom: 20px;
